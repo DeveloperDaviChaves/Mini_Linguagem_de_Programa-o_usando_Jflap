@@ -1,0 +1,16 @@
+x
+idade
+total_vendas
+media_2
+_tmp
+col1
+preco_unitario
+a_b_c_9
+1coluna
+9x
+Total
+preco-unitario
+nome coluna
+@x
+valor$
+3_a
