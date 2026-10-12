@@ -98,7 +98,3 @@ Observe que `mediana` é rejeitada pelo AFD de palavras reservadas, mas aceita p
     ├── entradas_constantes_numericas.txt
     └── entradas_palavras_reservadas.txt
 ```
-
-## Licença
-
-[Defina a licença, por exemplo MIT]
