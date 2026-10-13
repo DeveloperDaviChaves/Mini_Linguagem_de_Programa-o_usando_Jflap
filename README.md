@@ -1,5 +1,5 @@
 # Mini_Linguagem_de_Programa-o_usando_Jflap
-DataLang: mini linguagem para análise de dados, com análise léxica por expressões regulares e AFDs implementados no JFLAP. Trabalho de Linguagens Formais e Compiladores (UEPA).
+Data+: mini linguagem para análise de dados, com análise léxica por expressões regulares e AFDs implementados no JFLAP. Trabalho de Linguagens Formais e Compiladores (UEPA).
 
 # Data+
 
@@ -18,7 +18,7 @@ Mini linguagem de programação para **análise de dados**, com análise léxica
 
 ## Finalidade
 
-A DataLang permite escrever scripts curtos para carregar tabelas, filtrar linhas e resumir valores, sem exigir uma linguagem de propósito geral. Exemplo de programa:
+A Data+ permite escrever scripts curtos para carregar tabelas, filtrar linhas e resumir valores, sem exigir uma linguagem de propósito geral. Exemplo de programa:
 
 ```
 carregar vendas;
